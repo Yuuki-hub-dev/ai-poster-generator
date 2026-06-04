@@ -14,11 +14,11 @@
 
 ## 🎨 工作流设计截图
 <!-- 在这里插入工作流的节点连接截图 -->
-![工作流截图](images/workflow.png)
+![工作流截图](workflow.png)
 
 ## 🖼️ 生成效果示例
 <!-- 在这里插入生成的海报示例图 -->
-![海报示例](images/poster1.png)
+![海报示例](poster1.png)
 
 ## 🔗 在线体验
 [点击体验 COZE 智能体](https://www.coze.cn/user/2209398583732490?access_entrance=my_profile&sub_tab=bots&tab=user_product)
